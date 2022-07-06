@@ -18,3 +18,9 @@ DynamicBangla is a non-profit organization. We provide Bangla resources with zer
 - Machine Learning Course in Bangla
 - Algorithm Design & Analysis Bangla Course
 - Full Stack Army in Bangla
+
+
+
+## 📺 Latest YouTube Video
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
