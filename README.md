@@ -23,9 +23,9 @@ DynamicBangla is a non-profit organization. We provide Bangla resources with zer
 
 ## 📺 Latest YouTube Video
 <!-- BLOG-POST-LIST:START -->
+- [2. Fiverr vs Upwork &amp; others marketplace. ফাইভার ও আপওয়ার্ক || Dynamic Bangla](https://www.youtube.com/watch?v=dbNqbohxCCA)
 - [1. Introducing with Fiverr - ফাইভার কি ? কিভাবে কাজ করে ? || Fiverr Bangla Course || Dynamic Bangla](https://www.youtube.com/watch?v=awy05FOLXHs)
 - [Lecture 3 - Programming Language Foundation - A Bigger Landscape | Full-stack Army](https://www.youtube.com/watch?v=2S-7XDGqoas)
 - [Lecture 2 - We Need Freedom, We have to Stop Technology War | Full-stack Army](https://www.youtube.com/watch?v=VUclfm3YhvY)
 - [মেশিন লার্নিং ফুল কোর্স বাংলা || ক্লাস -১১ || ডায়নামিক বাংলা  @Dynamic Bangla](https://www.youtube.com/watch?v=Kop4g8xf8DA)
-- [Lecture 1 - Application Requirements &amp; Landscape | Development Big Picture | Full-stack Army](https://www.youtube.com/watch?v=TBG76ej6MSQ)
 <!-- BLOG-POST-LIST:END -->
