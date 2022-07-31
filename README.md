@@ -23,9 +23,9 @@ DynamicBangla is a non-profit organization. We provide Bangla resources with zer
 
 ## 📺 Latest YouTube Video
 <!-- BLOG-POST-LIST:START -->
+- [03. Algorithm Design &amp; Analysis || Dynamic Bangla](https://www.youtube.com/watch?v=p1aXBk4-THw)
 - [02. Algorithm Design &amp; Analysis || Dynamic Bangla](https://www.youtube.com/watch?v=Qy-TbFpfdl8)
 - [01. Algorithm Design &amp; Analysis || Dynamic Bangla](https://www.youtube.com/watch?v=1A1qEMBx35k)
 - [5. How to make Gig on Fiverr || Dynamic Bangla](https://www.youtube.com/watch?v=VJcCKcOTU4w)
 - [মেশিন লার্নিং ফুল কোর্স বাংলা || ক্লাস -১২ || ডায়নামিক বাংলা || Dynamic-Bangla​](https://www.youtube.com/watch?v=Gnjhvez9PYM)
-- [4. How to Set up Fiverr Account in Bangla || ফাইভার অ্যাকাউন্ট সেটআপ করুন নিজে নিজেই](https://www.youtube.com/watch?v=P0ihbMYXko8)
 <!-- BLOG-POST-LIST:END -->
