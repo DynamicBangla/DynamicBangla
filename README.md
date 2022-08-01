@@ -23,9 +23,9 @@ DynamicBangla is a non-profit organization. We provide Bangla resources with zer
 
 ## 📺 Latest YouTube Video
 <!-- BLOG-POST-LIST:START -->
+- [06. Algorithm Design &amp; Analysis || Dynamic Bangla](https://www.youtube.com/watch?v=YZC8zaTMnPg)
 - [05. Algorithm Design &amp; Analysis || Dynamic Bangla](https://www.youtube.com/watch?v=HnHvvqIXf6E)
 - [04. Algorithm Design &amp; Analysis || Dynamic Bangla](https://www.youtube.com/watch?v=iaJ3vVS1g0M)
 - [03. Algorithm Design &amp; Analysis || Dynamic Bangla](https://www.youtube.com/watch?v=p1aXBk4-THw)
 - [02. Algorithm Design &amp; Analysis || Dynamic Bangla](https://www.youtube.com/watch?v=Qy-TbFpfdl8)
-- [01. Algorithm Design &amp; Analysis || Dynamic Bangla](https://www.youtube.com/watch?v=1A1qEMBx35k)
 <!-- BLOG-POST-LIST:END -->
