@@ -23,9 +23,9 @@ DynamicBangla is a non-profit organization. We provide Bangla resources with zer
 
 ## 📺 Latest YouTube Video
 <!-- BLOG-POST-LIST:START -->
+- [04. OOP Java Full Course Bangla || Dynamic Bangla](https://www.youtube.com/watch?v=AzPwZdo-IZg)
 - [03. OOP Java Full Course Bangla || Dynamic Bangla](https://www.youtube.com/watch?v=FR9EkbN7b4A)
 - [02. OOP Java Full Course Bangla || Dynamic Bangla](https://www.youtube.com/watch?v=yf6F21bGdo4)
 - [01. OOP Java Full Course Bangla || Dynamic Bangla](https://www.youtube.com/watch?v=SgCeRvXrXyw)
 - [7. How to Create a new account and portfolio on Flickr || Dynamic Bangla](https://www.youtube.com/watch?v=bTDuvMLXCMQ)
-- [মেশিন লার্নিং ফুল কোর্স বাংলা || ক্লাস -13 || ডায়নামিক বাংলা](https://www.youtube.com/watch?v=uBkYJnFLUA4)
 <!-- BLOG-POST-LIST:END -->
