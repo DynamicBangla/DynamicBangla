@@ -23,9 +23,9 @@ DynamicBangla is a non-profit organization. We provide Bangla resources with zer
 
 ## 📺 Latest YouTube Video
 <!-- BLOG-POST-LIST:START -->
+- [খুন হয়েছেন স্ত্রী, স্বামী জেলে, খুনী নিজেই তদন্ত কর্মকর্তা! #15minutes @Elias Hossain #eliashossain](https://www.youtube.com/watch?v=pBtzUVhl46w)
 - [08. How Create a Business card in Gig || Dynamic Bangla](https://www.youtube.com/watch?v=WJKexKuGdYo)
 - [07. OOP Java Full Course Bangla || Dynamic Bangla](https://www.youtube.com/watch?v=8abWs1cH380)
 - [06. OOP Java Full Course Bangla || Dynamic Bangla](https://www.youtube.com/watch?v=uSm2JXxIprI)
 - [05. OOP Java Full Course Bangla || Dynamic Bangla](https://www.youtube.com/watch?v=XDZ3pr4WXnM)
-- [04. OOP Java Full Course Bangla || Dynamic Bangla](https://www.youtube.com/watch?v=AzPwZdo-IZg)
 <!-- BLOG-POST-LIST:END -->
