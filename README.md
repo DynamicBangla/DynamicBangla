@@ -23,9 +23,9 @@ DynamicBangla is a non-profit organization. We provide Bangla resources with zer
 
 ## 📺 Latest YouTube Video
 <!-- BLOG-POST-LIST:START -->
+- [কোন অপরাধ না করেও ফাঁসি হচ্ছে ১৬ জন নীরিহ মানুষের! || Dynamic Bangla #eliashossain #15minutes](https://www.youtube.com/watch?v=yYYLl6G3aZo)
 - [ইস্যুর জ্বালায় পুইড়া ছাড়খাড় সোনার বাংলাদেশ 😱 || সমসাময়িক ইস্যু নিয়ে গজল।। Dynamic Bangla](https://www.youtube.com/watch?v=3g8UK4MW5Do)
 - [প্রতি বছর স্বামী পাল্টায় এসপি নাইমা সুলতানা! #ইলিয়াছ হোসাইন  #eliashossain    #15minutes](https://www.youtube.com/watch?v=WUiMN0RlVIk)
 - [মিতু হত্যার মুল পরিকল্পনাকারী বনজ কুমার ফেঁসে যাচ্ছেন! #eliashossain #15minutes](https://www.youtube.com/watch?v=r1qEM_FkT0s)
 - [খুন হয়েছেন স্ত্রী, স্বামী জেলে, খুনী নিজেই তদন্ত কর্মকর্তা! #15minutes @Elias Hossain #eliashossain](https://www.youtube.com/watch?v=pBtzUVhl46w)
-- [08. How Create a Business card in Gig || Dynamic Bangla](https://www.youtube.com/watch?v=WJKexKuGdYo)
 <!-- BLOG-POST-LIST:END -->
