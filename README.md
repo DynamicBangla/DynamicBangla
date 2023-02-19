@@ -23,9 +23,9 @@ DynamicBangla is a non-profit organization. We provide Bangla resources with zer
 
 ## 📺 Latest YouTube Video
 <!-- BLOG-POST-LIST:START -->
-- [Cambridge  8 Listening Test 2](https://www.youtube.com/watch?v=sZJhY3P8E8c)
-- [Cambridge  8 Listening Test 1](https://www.youtube.com/watch?v=NEx46Rg5TzM)
-- [বনজের শাস্তির দাবিতে উত্তাল ফেনী || বনজ কুমারের অপকর্ম || #15minutes #eliashossain](https://www.youtube.com/watch?v=txSdqncAvMs)
-- [বনজ কুমারের অপকর্ম || কোন অপরাধ না করেও ফাঁসি হচ্ছে ১৬ জন নীরিহ মানুষের! @Dynamic-Bangla](https://www.youtube.com/watch?v=yYYLl6G3aZo)
-- [ইস্যুর জ্বালায় পুইড়া ছাড়খাড় সোনার বাংলাদেশ 😱 || সমসাময়িক ইস্যু নিয়ে গজল।। Dynamic Bangla](https://www.youtube.com/watch?v=3g8UK4MW5Do)
+- [08. How Create a Business card in Gig || Dynamic Bangla](https://www.youtube.com/watch?v=WJKexKuGdYo)
+- [07. OOP Java Full Course Bangla || Dynamic Bangla](https://www.youtube.com/watch?v=8abWs1cH380)
+- [06. OOP Java Full Course Bangla || Dynamic Bangla](https://www.youtube.com/watch?v=uSm2JXxIprI)
+- [05. OOP Java Full Course Bangla || Dynamic Bangla](https://www.youtube.com/watch?v=XDZ3pr4WXnM)
+- [04. OOP Java Full Course Bangla || Dynamic Bangla](https://www.youtube.com/watch?v=AzPwZdo-IZg)
 <!-- BLOG-POST-LIST:END -->
