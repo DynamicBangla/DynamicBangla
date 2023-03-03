@@ -23,9 +23,9 @@ DynamicBangla is a non-profit organization. We provide Bangla resources with zer
 
 ## 📺 Latest YouTube Video
 <!-- BLOG-POST-LIST:START -->
-- [08. How Create a Business card in Gig || Dynamic Bangla](https://www.youtube.com/watch?v=WJKexKuGdYo)
 - [07. OOP Java Full Course Bangla || Dynamic Bangla](https://www.youtube.com/watch?v=8abWs1cH380)
 - [06. OOP Java Full Course Bangla || Dynamic Bangla](https://www.youtube.com/watch?v=uSm2JXxIprI)
 - [05. OOP Java Full Course Bangla || Dynamic Bangla](https://www.youtube.com/watch?v=XDZ3pr4WXnM)
 - [04. OOP Java Full Course Bangla || Dynamic Bangla](https://www.youtube.com/watch?v=AzPwZdo-IZg)
+- [03. OOP Java Full Course Bangla || Dynamic Bangla](https://www.youtube.com/watch?v=FR9EkbN7b4A)
 <!-- BLOG-POST-LIST:END -->
